@@ -1,0 +1,539 @@
+Health Authority,Sample ID,Visit Date,Collection Site,City/Town,Drug,Category,Quant
+Fraser Health,Q7YGC9WQBCB2,2024-03-29,Foxglove Housing,Surrey,Down (Unknown Opioid),Opioid,9.0
+Island Health,2XVW77VCTRPF,2024-03-31,CMHA (Albert St.),Nanaimo,Down (Unknown Opioid),Opioid,22.5
+Fraser Health,CTQTNBGGB4PW,2024-03-27,Ruth and Naomi's (Chilliwack),Chilliwack,Down (Unknown Opioid),Opioid,23.3
+Vancouver Coastal,Z29N3FN2DJQK,2024-03-27,Insite,Vancouver,Down (Unknown Opioid),Opioid,24.0
+Island Health,KX2QA9DRUBUU,2024-03-27,CMHA (Albert St.),Nanaimo,Down (Unknown Opioid),Opioid,20.6
+Fraser Health,CCRGYU9PKB6A,2024-03-29,Phoenix Society The Hub,Abbotsford,Fentanyl,Opioid,32.6
+Fraser Health,NAAJFA3KZE7V,2024-03-29,Phoenix Society The Hub,Abbotsford,Fentanyl,Opioid,61.0
+Vancouver Coastal,A3RVJCTGCF6E,2024-03-26,Insite,Vancouver,Down (Unknown Opioid),Opioid,27.8
+Vancouver Coastal,9H92TY7TC3NE,2024-03-25,Insite,Vancouver,Down (Unknown Opioid),Opioid,11.7
+Island Health,XJX8FGTF9DUK,2024-03-27,CMHA (Albert St.),Nanaimo,Down (Unknown Opioid),Opioid,5.9
+Vancouver Coastal,NB9UWFENUYAV,2024-03-26,Insite,Vancouver,Down (Unknown Opioid),Opioid,20.5
+Vancouver Coastal,84HHYDFXBFH9,2024-03-27,Insite,Vancouver,Down (Unknown Opioid),Opioid,20.1
+Fraser Health,332YDXM36N3M,2024-03-27,PCRS Wellness Centre,Chilliwack,Down (Unknown Opioid),Opioid,10.0
+Fraser Health,K8EGEX33XGJF,2024-03-27,PCRS Wellness Centre,Chilliwack,Down (Unknown Opioid),Opioid,50.8
+Fraser Health,KGXT9HN8YQHX,2024-03-27,PCRS Wellness Centre,Chilliwack,Down (Unknown Opioid),Opioid,40.3
+Fraser Health,MD9K63E4FX3R,2024-03-27,PCRS Wellness Centre,Chilliwack,Down (Unknown Opioid),Opioid,13.1
+Vancouver Coastal,KEGBWKGJJF4D,2024-03-22,Insite,Vancouver,Down (Unknown Opioid),Opioid,15.4
+Fraser Health,RAJYY339DT8Y,2024-03-22,Foxglove Housing,Surrey,Down (Unknown Opioid),Opioid,16.4
+Vancouver Coastal,TY3FT6BAU46A,2024-03-22,Insite,Vancouver,Down (Unknown Opioid),Opioid,7.0
+Island Health,4E374WVB7NPK,2024-03-23,CMHA (Albert St.),Nanaimo,Fentanyl,Opioid,53.3
+Island Health,MB8PM8MYQMXC,2024-03-23,CMHA (Albert St.),Nanaimo,Fentanyl,Opioid,52.8
+Vancouver Coastal,G3KKEVQKJZEB,2024-03-25,Insite,Vancouver,Down (Unknown Opioid),Opioid,19.2
+Vancouver Coastal,4WHAM32RTFGE,2024-03-22,Insite,Vancouver,Down (Unknown Opioid),Opioid,51.7
+Vancouver Coastal,VVABAZVVABJ9,2024-03-21,Insite,Vancouver,Down (Unknown Opioid),Opioid,19.0
+Vancouver Coastal,K67CZW93R6GE,2024-03-21,Insite,Vancouver,Down (Unknown Opioid),Opioid,19.2
+Vancouver Coastal,R7ZDDTGATEZV,2024-03-22,Insite,Vancouver,Down (Unknown Opioid),Opioid,21.5
+Fraser Health,8GK9VNX7FJJ3,2024-03-20,SafePoint,Surrey,Heroin,Opioid,15.8
+Vancouver Coastal,F7KG9CKM6GMR,2024-03-20,Insite,Vancouver,Down (Unknown Opioid),Opioid,13.0
+Fraser Health,Q2TEEM34MB3U,2024-03-20,SafePoint,Surrey,Heroin,Opioid,19.0
+Vancouver Coastal,RQG9KJ9VHDT8,2024-03-21,Insite,Vancouver,Down (Unknown Opioid),Opioid,21.0
+Fraser Health,VV4KP8CPG7RQ,2024-03-15,Foxglove Housing,Surrey,Down (Unknown Opioid),Opioid,18.0
+Fraser Health,X6XD3CBH4684,2024-03-15,Foxglove Housing,Surrey,Down (Unknown Opioid),Opioid,27.9
+Island Health,TVEVVBNU4HPG,2024-03-15,CMHA (Albert St.),Nanaimo,Down (Unknown Opioid),Opioid,14.1
+Fraser Health,FXYR9ARXMK9Q,2024-03-15,Abby Drug War Survivors (NOMAD),Abbotsford,Down (Unknown Opioid),Opioid,38.5
+Island Health,4DHR2A2EEHK8,2024-03-18,CMHA (Albert St.),Nanaimo,Down (Unknown Opioid),Opioid,13.8
+Interior Health,MT2GJYX7P83F,2024-03-19,Medicine Shoppe Pharmacy,Vernon,Down (Unknown Opioid),Opioid,23.4
+Vancouver Coastal,VTADFJFJUY46,2024-03-13,Insite,Vancouver,Down (Unknown Opioid),Opioid,22.3
+Fraser Health,GFYVEZH9BEEA,2024-03-14,Purpose Society,New Westminster,Down (Unknown Opioid),Opioid,14.9
+Fraser Health,Z4R4EC2QJN8N,2024-03-14,Purpose Society,New Westminster,Down (Unknown Opioid),Opioid,14.9
+Vancouver Coastal,TXXH637JTXQ6,2024-03-14,Insite,Vancouver,Down (Unknown Opioid),Opioid,31.1
+Vancouver Coastal,BCNABGBGBXDX,2024-03-14,Insite,Vancouver,Down (Unknown Opioid),Opioid,17.4
+Vancouver Coastal,NJJ6FEP4CFYQ,2024-03-12,Insite,Vancouver,Down (Unknown Opioid),Opioid,13.2
+Fraser Health,7BFFXJMUVKK9,2024-03-13,Ruth and Naomi's (Chilliwack),Chilliwack,Down (Unknown Opioid),Opioid,13.7
+Vancouver Coastal,EFGBANXJFMEN,2024-03-13,Insite,Vancouver,Down (Unknown Opioid),Opioid,21.6
+Vancouver Coastal,EFTHFJPJ3WJ6,2024-03-13,Insite,Vancouver,Down (Unknown Opioid),Opioid,15.4
+Vancouver Coastal,MDJ8Z28B6XRQ,2024-03-13,Insite,Vancouver,Down (Unknown Opioid),Opioid,17.2
+Vancouver Coastal,J648UK27XD7X,2024-03-13,Insite,Vancouver,Down (Unknown Opioid),Opioid,23.2
+Vancouver Coastal,V6JKP9CZR34V,2024-03-13,Insite,Vancouver,Down (Unknown Opioid),Opioid,25.3
+Vancouver Coastal,6ZGABEVKWBUP,2024-03-11,Insite,Vancouver,Down (Unknown Opioid),Opioid,30.0
+Vancouver Coastal,QDK9EX73XEQK,2024-03-11,Insite,Vancouver,Down (Unknown Opioid),Opioid,27.1
+Vancouver Coastal,V3JHUHMEVCGK,2024-03-11,Insite,Vancouver,Down (Unknown Opioid),Opioid,21.1
+Island Health,KG37CJJ9G7NW,2024-03-11,CMHA (Albert St.),Nanaimo,Down (Unknown Opioid),Opioid,6.3
+Island Health,XAFHZAE97E6M,2024-03-11,CMHA (Albert St.),Nanaimo,Fentanyl,Opioid,3.4
+Island Health,ZQEHUFKH7MY2,2024-03-12,CMHA (Albert St.),Nanaimo,Down (Unknown Opioid),Opioid,15.0
+Vancouver Coastal,VC2YQABAFUUC,2024-03-12,Insite,Vancouver,Down (Unknown Opioid),Opioid,17.8
+Fraser Health,3BBRWV34WK7P,2024-03-08,Foxglove Housing,Surrey,Down (Unknown Opioid),Opioid,17.5
+Fraser Health,CFPY6EHN3B3K,2024-03-08,Foxglove Housing,Surrey,Down (Unknown Opioid),Opioid,34.2
+Fraser Health,64CXWJGNXNK3,2024-03-08,Foxglove Housing,Surrey,Down (Unknown Opioid),Opioid,20.4
+Fraser Health,G2AHVRGAC8EC,2024-03-08,Foxglove Housing,Surrey,Down (Unknown Opioid),Opioid,19.8
+Fraser Health,BT9MFZQ9VTK7,2024-03-08,Foxglove Housing,Surrey,Down (Unknown Opioid),Opioid,18.7
+Vancouver Coastal,CFY4JU7GU9BK,2024-03-08,Insite,Vancouver,Down (Unknown Opioid),Opioid,28.5
+Fraser Health,ED4AFQM9MGPD,2024-03-08,Foxglove Housing,Surrey,Down (Unknown Opioid),Opioid,18.5
+Fraser Health,G33CX3BNQWKB,2024-03-09,PCRS Wellness Centre,Chilliwack,Fentanyl,Opioid,69.2
+Fraser Health,BH2C48AWETGW,2024-03-09,PCRS Wellness Centre,Chilliwack,Fentanyl,Opioid,67.1
+Fraser Health,C7PVAJXMUJQW,2024-03-08,Foxglove Housing,Surrey,Down (Unknown Opioid),Opioid,19.5
+Fraser Health,WHTZ7B6J69TY,2024-03-06,SafePoint,Surrey,Fentanyl,Opioid,19.0
+Vancouver Coastal,3THMP449GTBK,2024-03-07,Insite,Vancouver,Down (Unknown Opioid),Opioid,24.1
+Island Health,X23K22FANKDN,2024-03-07,CMHA (Albert St.),Nanaimo,Down (Unknown Opioid),Opioid,15.0
+Island Health,W3R6NFB6FZB8,2024-03-07,CMHA (Albert St.),Nanaimo,Down (Unknown Opioid),Opioid,14.3
+Vancouver Coastal,CHWQDW9BMJWF,2024-03-07,Insite,Vancouver,Down (Unknown Opioid),Opioid,40.3
+Fraser Health,E2APYPDQNZGW,2024-03-08,3030 Gordon,Coquitlam,Down (Unknown Opioid),Opioid,32.7
+Vancouver Coastal,BKCMYBG4XQ8M,2024-03-04,Insite,Vancouver,Down (Unknown Opioid),Opioid,22.6
+Island Health,V4QX8B3JBCAR,2024-03-04,CMHA (Albert St.),Nanaimo,Down (Unknown Opioid),Opioid,15.6
+Vancouver Coastal,BWMQWAEWD8ZW,2024-03-05,Insite,Vancouver,Down (Unknown Opioid),Opioid,36.0
+Vancouver Coastal,TE7RQ36FXNHV,2024-03-05,Insite,Vancouver,Down (Unknown Opioid),Opioid,29.2
+Vancouver Coastal,RH3GV29UHVHE,2024-03-05,Insite,Vancouver,Down (Unknown Opioid),Opioid,19.0
+Vancouver Coastal,GP9PZG6NYDPQ,2024-03-05,Insite,Vancouver,Down (Unknown Opioid),Opioid,15.8
+Vancouver Coastal,22B6TU4W4EJG,2024-03-05,Insite,Vancouver,Down (Unknown Opioid),Opioid,19.2
+Fraser Health,WB7DVJGHWDZK,2024-03-06,SafePoint,Surrey,Fentanyl,Opioid,19.4
+Vancouver Coastal,K6DHK67CUPA2,2024-03-06,Insite,Vancouver,Down (Unknown Opioid),Opioid,11.6
+Fraser Health,K6KFKY6VR73W,2024-03-01,Foxglove Housing,Surrey,Down (Unknown Opioid),Opioid,26.4
+Fraser Health,43W48VHFQWEX,2024-03-01,Foxglove Housing,Surrey,Down (Unknown Opioid),Opioid,22.4
+Fraser Health,7FGRRBEN4BED,2024-03-01,Foxglove Housing,Surrey,Down (Unknown Opioid),Opioid,17.8
+Fraser Health,4HYJ89ZZ4EZ7,2024-03-01,Foxglove Housing,Surrey,Down (Unknown Opioid),Opioid,16.9
+Fraser Health,7MTB83R76N92,2024-03-01,Foxglove Housing,Surrey,Down (Unknown Opioid),Opioid,24.4
+Interior Health,64PN62BF92AA,2024-03-01,Martin St Outreach Centre OPS,Penticton,Down (Unknown Opioid),Opioid,57.6
+Fraser Health,FUK26PMFBUGP,2024-03-01,Foxglove Housing,Surrey,Down (Unknown Opioid),Opioid,17.4
+Vancouver Coastal,YCBJU9WJ2F4B,2024-03-01,Insite,Vancouver,Down (Unknown Opioid),Opioid,19.5
+Northern Health,MJVBJMR4VAX3,2024-03-09,POUNDS,Prince George,Down (Unknown Opioid),Opioid,14.9
+Vancouver Coastal,UAPNZKJWT834,2024-03-10,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,17.3
+Vancouver Coastal,XXKR3W7MNZJT,2024-03-07,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,27.4
+Fraser Health,E4XGP8J8Y8VR,2024-03-29,Foxglove Housing,Surrey,Down (Unknown Opioid),Opioid,18.7
+Fraser Health,TQC2Z8PG97VZ,2024-03-27,PCRS Wellness Centre,Chilliwack,Down (Unknown Opioid),Opioid,10.3
+Fraser Health,NFPW2Z68MEVU,2024-03-27,SafePoint,Surrey,Down (Unknown Opioid),Opioid,21.0
+Vancouver Coastal,DYK3WWVTZT3X,2024-03-28,Insite,Vancouver,Down (Unknown Opioid),Opioid,33.9
+Interior Health,TXEQ6X3MUVWR,2024-03-28,Vernon MHSU,Vernon,Fentanyl,Opioid,17.2
+Fraser Health,4RXW3AXFKCNM,2024-03-27,PCRS Wellness Centre,Chilliwack,Down (Unknown Opioid),Opioid,16.9
+Fraser Health,DDG89PA2MGWQ,2024-03-27,PCRS Wellness Centre,Chilliwack,Down (Unknown Opioid),Opioid,9.4
+Fraser Health,UMNUE7QVXJPH,2024-03-27,PCRS Wellness Centre,Chilliwack,Down (Unknown Opioid),Opioid,15.9
+Vancouver Coastal,NJKAZF2NMN7W,2024-03-21,Insite,Vancouver,Down (Unknown Opioid),Opioid,25.6
+Fraser Health,W3V7PRNZUB3Z,2024-03-22,Abby Drug War Survivors (NOMAD),Abbotsford,Down (Unknown Opioid),Opioid,29.8
+Vancouver Coastal,VBM9FGC4KFWA,2024-03-24,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,8.4
+Fraser Health,T2FJZBFF49UP,2024-03-20,SafePoint,Surrey,Down (Unknown Opioid),Opioid,19.7
+Vancouver Coastal,772FN439DXPH,2024-03-21,Insite,Vancouver,Down (Unknown Opioid),Opioid,24.4
+Fraser Health,4JVHFX8RKMBB,2024-03-16,PCRS Wellness Centre,Chilliwack,Down (Unknown Opioid),Opioid,17.4
+Vancouver Coastal,E2WVZGJ6N9NA,2024-03-15,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,18.9
+Interior Health,6KXDKAURFR8G,2024-03-18,IH Lansdowne SCS,Kamloops,Fentanyl,Opioid,14.5
+Fraser Health,DE2VNU3EV2NT,2024-03-19,Lookout Society Red Lion,Abbotsford,Down (Unknown Opioid),Opioid,14.1
+Vancouver Coastal,24CW8YR8GG88,2024-03-12,Insite,Vancouver,Down (Unknown Opioid),Opioid,12.8
+Vancouver Coastal,86KCY9C8KNZ4,2024-03-12,Insite,Vancouver,Down (Unknown Opioid),Opioid,5.6
+Fraser Health,94MCQGEKXP4E,2024-03-13,SafePoint,Surrey,Down (Unknown Opioid),Opioid,8.3
+Fraser Health,WG6NU9RZCYAC,2024-03-13,SafePoint,Surrey,Down (Unknown Opioid),Opioid,15.5
+Vancouver Coastal,JEG78UKYFD22,2024-03-13,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,29.7
+Vancouver Coastal,A32CRJZ33GFC,2024-03-14,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,18.7
+Fraser Health,WD6AWNJP4MMG,2024-03-15,Phoenix Society The Hub,Abbotsford,Down (Unknown Opioid),Opioid,27.4
+Fraser Health,HCMPUV68AHME,2024-03-15,Foxglove Housing,Surrey,Down (Unknown Opioid),Opioid,28.3
+Vancouver Coastal,ZM8Z7E6QEA8F,2024-03-06,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,18.6
+Northern Health,H3QBP6ERVBMF,2024-03-06,POUNDS,Prince George,Down (Unknown Opioid),Opioid,11.8
+Vancouver Coastal,CGH8UP3KYEAW,2024-03-08,Insite,Vancouver,Down (Unknown Opioid),Opioid,13.2
+Fraser Health,6WDFKVBQWEMP,2024-03-06,SafePoint,Surrey,Fentanyl,Opioid,18.3
+Interior Health,TXMBCYABZTKC,2024-03-05,ASK Wellness Mobile Outreach,Kamloops,Fentanyl,Opioid,22.4
+Fraser Health,283CYMP2G2QF,2024-03-01,Foxglove Housing,Surrey,Down (Unknown Opioid),Opioid,32.7
+Vancouver Coastal,DUNWBWMHWDRM,2024-03-02,Get Your Drugs Tested,Vancouver,Fentanyl,Opioid,14.2
+Fraser Health,ZERRYN34EFF6,2024-03-08,Phoenix Society The Hub,Abbotsford,Down (Unknown Opioid),Opioid,22.8
+Vancouver Coastal,6FZR4NUFKZKK,2024-03-15,Insite,Vancouver,Down (Unknown Opioid),Opioid,24.9
+Vancouver Coastal,T97DWM3CBWBW,2024-03-21,Insite,Vancouver,Down (Unknown Opioid),Opioid,21.6
+Vancouver Coastal,DC2C7TNMACVN,2024-03-27,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,13.0
+Vancouver Coastal,XVBA3JGVNRW3,2024-03-27,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,20.5
+Vancouver Coastal,AY8DMKQFDRZG,2024-03-26,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,23.0
+Fraser Health,UZWDWQF3UBGG,2024-03-27,Ruth and Naomi's (Chilliwack),Chilliwack,Down (Unknown Opioid),Opioid,16.8
+Fraser Health,K6MAFCRCGKNC,2024-03-27,PCRS Wellness Centre,Chilliwack,Down (Unknown Opioid),Opioid,10.8
+Fraser Health,2D6627FVNWYY,2024-03-27,PCRS Wellness Centre,Chilliwack,Down (Unknown Opioid),Opioid,12.2
+Fraser Health,RDNM9969F9M2,2024-03-27,Ruth and Naomi's (Chilliwack),Chilliwack,Down (Unknown Opioid),Opioid,27.5
+Island Health,JXNADKKR38YT,2024-03-31,CMHA (Albert St.),Nanaimo,Down (Unknown Opioid),Opioid,16.4
+Vancouver Coastal,CMAQZZ4WJHCB,2024-03-15,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,23.4
+Interior Health,KACC8UC4NXR7,2024-03-07,OneSky Education Event,Penticton,Down (Unknown Opioid),Opioid,19.1
+Island Health,A39XFT6GDAKW,2024-03-07,CMHA (Albert St.),Nanaimo,Fentanyl,Opioid,66.9
+Island Health,YWW8CMGTYMCV,2024-03-07,CMHA (Albert St.),Nanaimo,Fentanyl,Opioid,66.7
+Fraser Health,BABH9KA286KH,2024-03-08,Foxglove Housing,Surrey,Down (Unknown Opioid),Opioid,21.4
+Fraser Health,EZD7BN4EN8XA,2024-03-08,Foxglove Housing,Surrey,Down (Unknown Opioid),Opioid,22.7
+Fraser Health,ZYEEXDR2RNNA,2024-03-08,Foxglove Housing,Surrey,Down (Unknown Opioid),Opioid,25.0
+Fraser Health,2H3YZ2DYE2DJ,2024-03-08,Foxglove Housing,Surrey,Down (Unknown Opioid),Opioid,33.3
+Vancouver Coastal,8NEBCKB6XNUM,2024-03-13,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,26.7
+Vancouver Coastal,79K6M6QAT6PF,2024-03-31,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,12.2
+Vancouver Coastal,EWUKNZJEF38Z,2024-03-29,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,13.0
+Island Health,WCKWVH68HCEE,2024-03-28,CMHA (Albert St.),Nanaimo,Down (Unknown Opioid),Opioid,11.2
+Fraser Health,F6R78AU6ADDG,2024-03-26,Foxglove Housing,Surrey,Down (Unknown Opioid),Opioid,15.4
+Fraser Health,W4QDPQG4T83V,2024-03-26,Foxglove Housing,Surrey,Down (Unknown Opioid),Opioid,14.5
+Vancouver Coastal,RXVXEENTNUXQ,2024-03-27,Get Your Drugs Tested,Vancouver,Fentanyl,Opioid,43.5
+Vancouver Coastal,37VZZ747WAZ4,2024-03-24,Get Your Drugs Tested,Vancouver,Fentanyl,Opioid,58.0
+Vancouver Coastal,9TRR6CXUC9DE,2024-03-24,Get Your Drugs Tested,Vancouver,Fentanyl,Opioid,67.5
+Vancouver Coastal,9HH2CCMNYK7P,2024-03-22,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,13.9
+Vancouver Coastal,JTTEU6TJ4GXR,2024-03-22,Get Your Drugs Tested,Vancouver,Fentanyl,Opioid,52.7
+Vancouver Coastal,677AXWUR87BX,2024-03-22,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,21.9
+Vancouver Coastal,CK9GU6Q2QMK9,2024-03-20,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,27.7
+Vancouver Coastal,DAEU3DN9RK9K,2024-03-19,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,65.5
+Vancouver Coastal,RTUAZBDVKACA,2024-03-16,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,44.0
+Fraser Health,QBDK8P2QRPMU,2024-03-15,Abby Drug War Survivors (NOMAD),Abbotsford,Down (Unknown Opioid),Opioid,50.6
+Island Health,QNDFGJN36RWY,2024-03-15,CMHA (Albert St.),Nanaimo,Down (Unknown Opioid),Opioid,6.4
+Vancouver Coastal,A2THV374MBW9,2024-03-16,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,27.8
+Vancouver Coastal,QC7K7GYVD6RA,2024-03-16,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,65.9
+Fraser Health,4RY2MZJP33ZP,2024-03-13,Ruth and Naomi's (Chilliwack),Chilliwack,Down (Unknown Opioid),Opioid,21.2
+Vancouver Coastal,WEK4R334R4A9,2024-03-15,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,29.2
+Interior Health,W836MNHPH9N7,2024-03-11,Outreach Urban Health,Kelowna,Down (Unknown Opioid),Opioid,25.4
+Island Health,WTNQW2RQ79RJ,2024-03-11,CMHA (Albert St.),Nanaimo,Fentanyl,Opioid,17.1
+Island Health,F4A2ED4EY7AP,2024-03-11,CMHA (Albert St.),Nanaimo,Fentanyl,Opioid,12.4
+Vancouver Coastal,DF3QZWXEHAC6,2024-03-11,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,19.0
+Vancouver Coastal,W2G4MGFGD9VG,2024-03-08,Insite,Vancouver,Down (Unknown Opioid),Opioid,25.2
+Vancouver Coastal,MMAX2GT7QF8F,2024-03-07,Insite,Vancouver,Down (Unknown Opioid),Opioid,21.5
+Vancouver Coastal,KTZAAWZ8EP8Y,2024-03-05,Insite,Vancouver,Down (Unknown Opioid),Opioid,17.2
+Fraser Health,DV6N97XGX6TP,2024-03-01,Foxglove Housing,Surrey,Down (Unknown Opioid),Opioid,21.7
+Fraser Health,WECQDTZHNEK8,2024-03-15,Foxglove Housing,Surrey,Down (Unknown Opioid),Opioid,15.4
+Vancouver Coastal,9NUD9NVTEAGF,2024-03-22,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,14.9
+Vancouver Coastal,9MDM99DQV3JX,2024-03-31,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,17.7
+Vancouver Coastal,PHPNHVH69NWK,2024-03-01,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,18.8
+Island Health,NHQ4R74RG9J9,2024-03-07,CMHA (Albert St.),Nanaimo,Heroin,Opioid,33.6
+Island Health,TKMY9Q632WYN,2024-03-07,CMHA (Albert St.),Nanaimo,Down (Unknown Opioid),Opioid,11.0
+Island Health,UDNTYGX6JNYE,2024-03-08,CMHA (Albert St.),Nanaimo,Down (Unknown Opioid),Opioid,27.8
+Island Health,VBGFKVW9CTPE,2024-03-07,CMHA (Albert St.),Nanaimo,Down (Unknown Opioid),Opioid,16.9
+Vancouver Coastal,6Q3C4ZNZQVCP,2024-03-01,GYDT (West),Vancouver,Down (Unknown Opioid),Opioid,41.4
+Vancouver Coastal,YNH6XXHZDAY7,2024-03-01,Get Your Drugs Tested,Vancouver,Fentanyl,Opioid,47.1
+Vancouver Coastal,X947MMFFX6J9,2024-03-07,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,17.2
+Island Health,AYC3QDCAM6T3,2024-03-05,CMHA (Albert St.),Nanaimo,Fentanyl,Opioid,23.1
+Vancouver Coastal,Q9G67AZVEFCQ,2024-03-02,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,22.9
+Vancouver Coastal,DA27934NE3V4,2024-03-07,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,18.5
+Vancouver Coastal,7JUH6A39N8Y3,2024-03-11,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,21.3
+Vancouver Coastal,3CWMGQ22P4MK,2024-03-08,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,19.8
+Vancouver Coastal,UFWHXR78AU9P,2024-03-13,Get Your Drugs Tested,Vancouver,Fentanyl,Opioid,59.8
+Vancouver Coastal,QN6KGUMGE8RQ,2024-03-13,Get Your Drugs Tested,Vancouver,Fentanyl,Opioid,28.5
+Vancouver Coastal,8VPPH8BKE4PV,2024-03-12,Get Your Drugs Tested,Vancouver,Fentanyl,Opioid,52.7
+Vancouver Coastal,JVQNV78Y4RGD,2024-03-12,Get Your Drugs Tested,Vancouver,Fentanyl,Opioid,30.2
+Vancouver Coastal,VUQZBP9EB3WH,2024-03-15,Get Your Drugs Tested,Vancouver,Fentanyl,Opioid,20.0
+Vancouver Coastal,UHABKKV2BKTB,2024-03-13,Get Your Drugs Tested,Vancouver,Fentanyl,Opioid,23.0
+Vancouver Coastal,JCXKDMAANMEC,2024-03-13,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,19.3
+Vancouver Coastal,KQQRGPKT6PVA,2024-03-16,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,60.0
+Vancouver Coastal,RZW39WHRM2ZJ,2024-03-21,Insite,Vancouver,Down (Unknown Opioid),Opioid,19.7
+Vancouver Coastal,FJTGK9R4FBGR,2024-03-19,GYDT (West),Vancouver,Down (Unknown Opioid),Opioid,21.7
+Vancouver Coastal,UUB4XTBKC9RN,2024-03-20,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,20.3
+Vancouver Coastal,Z8DTNEKWH2AM,2024-03-21,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,20.2
+Island Health,7XY879BBCYK4,2024-03-18,CMHA (Albert St.),Nanaimo,Down (Unknown Opioid),Opioid,5.1
+Vancouver Coastal,TQ2AMR9TG2ZZ,2024-03-18,Insite,Vancouver,Down (Unknown Opioid),Opioid,20.1
+Vancouver Coastal,Q6KFX4X97WDC,2024-03-23,Get Your Drugs Tested,Vancouver,Fentanyl,Opioid,17.0
+Vancouver Coastal,PVHDGN2Z6NRE,2024-03-22,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,19.9
+Vancouver Coastal,G66KQUG7MHAR,2024-03-22,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,20.6
+Vancouver Coastal,232G2AV4GTUB,2024-03-25,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,21.7
+Vancouver Coastal,JCFJYET8UYKJ,2024-03-23,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,17.3
+Vancouver Coastal,DMHB929R4MBC,2024-03-30,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,14.9
+Vancouver Coastal,AR4FA4HZDGAT,2024-03-29,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,18.9
+Vancouver Coastal,22WVFHHV3EZ7,2024-03-28,Get Your Drugs Tested,Vancouver,Fentanyl,Opioid,31.4
+Vancouver Coastal,6PCU4RQV7R66,2024-03-29,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,18.6
+Fraser Health,E2ZF8AK94URT,2024-03-02,PCRS Wellness Centre,Chilliwack,Down (Unknown Opioid),Opioid,12.4
+Vancouver Coastal,F836ZHET2R8G,2024-03-05,Insite,Vancouver,Down (Unknown Opioid),Opioid,18.1
+Vancouver Coastal,8EARD9F8VANC,2024-03-05,Insite,Vancouver,Down (Unknown Opioid),Opioid,12.6
+Fraser Health,G8RW83BT8XC8,2024-03-06,SafePoint,Surrey,Fentanyl,Opioid,19.3
+Fraser Health,EJPQCD4BKX4K,2024-03-08,Foxglove Housing,Surrey,Down (Unknown Opioid),Opioid,22.7
+Vancouver Coastal,38K7UUKWHP9Z,2024-03-08,Insite,Vancouver,Down (Unknown Opioid),Opioid,56.3
+Fraser Health,676CM6MRZRXB,2024-03-11,Purpose Society,New Westminster,Down (Unknown Opioid),Opioid,34.4
+Vancouver Coastal,BH3UA78KC6F8,2024-03-11,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,15.2
+Vancouver Coastal,JUPAGNV3PMEF,2024-03-11,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,9.5
+Vancouver Coastal,W36XNPFZC9CF,2024-03-11,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,12.6
+Vancouver Coastal,B2BE39W7NGWB,2024-03-13,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,15.0
+Vancouver Coastal,TKUAFTN8NHPR,2024-03-12,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,34.1
+Vancouver Coastal,EKNJAZMGTT38,2024-03-12,Insite,Vancouver,Down (Unknown Opioid),Opioid,20.9
+Vancouver Coastal,VCEFJTR9K4QW,2024-03-15,Insite,Vancouver,Down (Unknown Opioid),Opioid,9.6
+Vancouver Coastal,VQ9VCHVH2J2Q,2024-03-15,Insite,Vancouver,Down (Unknown Opioid),Opioid,35.1
+Island Health,6QJMNYD4FZH7,2024-03-14,CMHA (Albert St.),Nanaimo,Down (Unknown Opioid),Opioid,12.8
+Vancouver Coastal,2E2PZ74WPJUK,2024-03-17,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,15.8
+Vancouver Coastal,AWAPVHUBQCFH,2024-03-16,Get Your Drugs Tested,Vancouver,Fentanyl,Opioid,20.1
+Fraser Health,AGY4AKMAEB9E,2024-03-16,PCRS Wellness Centre,Chilliwack,Down (Unknown Opioid),Opioid,19.6
+Vancouver Coastal,9X94XRVXGQ4P,2024-03-16,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,11.0
+Vancouver Coastal,4RDU9PDBC8A2,2024-03-19,Insite,Vancouver,Down (Unknown Opioid),Opioid,43.5
+Vancouver Coastal,9JUGWTZEMR84,2024-03-19,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,9.9
+Fraser Health,7HH8DTTAW8E4,2024-03-20,SafePoint,Surrey,Down (Unknown Opioid),Opioid,21.1
+Fraser Health,MFU3Q7F37W6M,2024-03-20,SafePoint,Surrey,Down (Unknown Opioid),Opioid,20.8
+Vancouver Coastal,KV6R9DDBC7QU,2024-03-21,Insite,Vancouver,Down (Unknown Opioid),Opioid,17.8
+Vancouver Coastal,RJQBCQ6N6D8Y,2024-03-21,Squamish OPS,Squamish,Down (Unknown Opioid),Opioid,13.1
+Vancouver Coastal,FR2HQBFERYRX,2024-03-21,Insite,Vancouver,Down (Unknown Opioid),Opioid,12.7
+Vancouver Coastal,CXTAEBM8KMTW,2024-03-22,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,14.0
+Vancouver Coastal,DU4JBX232HGK,2024-03-24,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,32.4
+Fraser Health,RF8VGNX26AC8,2024-03-23,PCRS Wellness Centre,Chilliwack,Down (Unknown Opioid),Opioid,4.4
+Vancouver Coastal,GX2AFTM432BE,2024-03-22,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,18.1
+Vancouver Coastal,WPMVMQHEBVYU,2024-03-26,Insite,Vancouver,Down (Unknown Opioid),Opioid,17.0
+Fraser Health,2H6X8VPF3UFM,2024-03-26,Lookout Society Red Lion,Abbotsford,Down (Unknown Opioid),Opioid,8.0
+Vancouver Coastal,VW7C29Q7YZU7,2024-03-26,Insite,Vancouver,Down (Unknown Opioid),Opioid,19.8
+Vancouver Coastal,NDJQ7EY7A7Y7,2024-03-28,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,15.0
+Fraser Health,W2VWZ8GP7Y7X,2024-03-27,PCRS Wellness Centre,Chilliwack,Down (Unknown Opioid),Opioid,5.6
+Vancouver Coastal,232N6JR2T24R,2024-03-27,Insite,Vancouver,Down (Unknown Opioid),Opioid,34.1
+Vancouver Coastal,3AJGTJWTVV7P,2024-03-27,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,17.0
+Vancouver Coastal,YCKHC9EJNJZQ,2024-03-29,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,16.5
+Fraser Health,RUXZYT7KYA7A,2024-03-29,Foxglove Housing,Surrey,Down (Unknown Opioid),Opioid,27.3
+Fraser Health,98XGNEKE2HP7,2024-03-24,MCS The Haven,Mission,Down (Unknown Opioid),Opioid,21.0
+Vancouver Coastal,RGEF3BU9ENW3,2024-03-25,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,27.2
+Vancouver Coastal,B82779QVMXAE,2024-03-26,Insite,Vancouver,Down (Unknown Opioid),Opioid,19.8
+Vancouver Coastal,TERK232EQBQW,2024-03-28,Insite,Vancouver,Down (Unknown Opioid),Opioid,13.9
+Vancouver Coastal,VH66JVN6UAZT,2024-03-25,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,16.0
+Vancouver Coastal,G6UP9JWBEFEB,2024-03-25,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,21.0
+Vancouver Coastal,C49VWUDVQH3P,2024-03-25,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,17.2
+Vancouver Coastal,DXT9F6YYPZE7,2024-03-27,Insite,Vancouver,Down (Unknown Opioid),Opioid,23.3
+Vancouver Coastal,PC2EKRG9VJNF,2024-03-27,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,33.7
+Fraser Health,4JDJ7KH4APRX,2024-03-27,Ruth and Naomi's (Chilliwack),Chilliwack,Down (Unknown Opioid),Opioid,3.9
+Island Health,RFNV6FMEC7AV,2024-03-14,CMHA (Albert St.),Nanaimo,Down (Unknown Opioid),Opioid,13.2
+Fraser Health,BVG8NM4XDXEC,2024-03-13,Ruth and Naomi's (Chilliwack),Chilliwack,Down (Unknown Opioid),Opioid,18.1
+Vancouver Coastal,CYPFBAPKQJWE,2024-03-14,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,11.2
+Fraser Health,9HJJZEXE3ZZG,2024-03-20,PCRS Wellness Centre,Chilliwack,Down (Unknown Opioid),Opioid,25.7
+Fraser Health,3PME72PNNUBP,2024-03-20,PCRS Wellness Centre,Chilliwack,Down (Unknown Opioid),Opioid,15.2
+Vancouver Coastal,ZWNN3UJV89AX,2024-03-05,Insite,Vancouver,Down (Unknown Opioid),Opioid,18.9
+Fraser Health,BWQ2EFQNXBHR,2024-03-09,PCRS Wellness Centre,Chilliwack,Down (Unknown Opioid),Opioid,24.4
+Vancouver Coastal,CRR4AX33G3N4,2024-03-08,Insite,Vancouver,Down (Unknown Opioid),Opioid,27.9
+Interior Health,QHFN3T78GA7K,2024-03-11,ANKORS (Cranbrook),Cranbrook,Down (Unknown Opioid),Opioid,24.6
+Vancouver Coastal,BQHFAWJ3HHXK,2024-03-11,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,33.3
+Interior Health,YYFWV2N39MQZ,2024-03-26,Living Positive Resource Centre,Kelowna,Down (Unknown Opioid),Opioid,36.5
+Fraser Health,HPFEMA4AKHKX,2024-03-27,Ruth and Naomi's (Chilliwack),Chilliwack,Down (Unknown Opioid),Opioid,6.9
+Fraser Health,MQUMNAGMZHRW,2024-03-27,PCRS Wellness Centre,Chilliwack,Down (Unknown Opioid),Opioid,2.1
+Vancouver Coastal,3VTV7CY2M67D,2024-03-03,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,37.6
+Vancouver Coastal,XJDVTQ4MU7Q4,2024-03-03,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,18.9
+Fraser Health,C4W4REAJ464F,2024-03-01,Outreach Hub,Burnaby,Fentanyl,Opioid,18.3
+Vancouver Coastal,PFRAQ3QUK8M4,2024-03-07,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,11.3
+Vancouver Coastal,WNMVKAY6TJ6E,2024-03-12,Insite,Vancouver,Down (Unknown Opioid),Opioid,19.8
+Fraser Health,PUK876M4MF3Q,2024-03-15,Foxglove Housing,Surrey,Down (Unknown Opioid),Opioid,14.7
+Vancouver Coastal,M3DB82GXCR8C,2024-03-15,Get Your Drugs Tested,Vancouver,Heroin,Opioid,12.1
+Interior Health,K6KECC93BKV4,2024-03-20,ANKORS (Cranbrook),Cranbrook,Down (Unknown Opioid),Opioid,16.8
+Vancouver Coastal,RFVCC7K47CK7,2024-03-05,Insite,Vancouver,Down (Unknown Opioid),Opioid,8.6
+Fraser Health,4GADCFKUXEB9,2024-03-01,Foxglove Housing,Surrey,Down (Unknown Opioid),Opioid,19.4
+Vancouver Coastal,MFGTD44Y6GVG,2024-03-08,Community Resource Centre,Powell River,Fentanyl,Opioid,23.1
+Vancouver Coastal,CXHYQ22DTV6K,2024-03-08,Insite,Vancouver,Down (Unknown Opioid),Opioid,21.3
+Island Health,3KTAQ3A64MVG,2024-03-11,CMHA (Albert St.),Nanaimo,Down (Unknown Opioid),Opioid,24.0
+Vancouver Coastal,PYD974YHTZTB,2024-03-11,Insite,Vancouver,Down (Unknown Opioid),Opioid,24.6
+Fraser Health,2ZMWJARBDT8J,2024-03-15,Phoenix Society The Hub,Abbotsford,Down (Unknown Opioid),Opioid,32.7
+Vancouver Coastal,FE9T3H7NQ2B7,2024-03-18,Insite,Vancouver,Down (Unknown Opioid),Opioid,42.3
+Vancouver Coastal,Z93ZYDVY2K4R,2024-03-17,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,26.5
+Fraser Health,42F2VGCJ3N6X,2024-03-16,PCRS Wellness Centre,Chilliwack,Down (Unknown Opioid),Opioid,19.9
+Island Health,3628UUBYAVV8,2024-03-16,CMHA (Albert St.),Nanaimo,Down (Unknown Opioid),Opioid,11.1
+Fraser Health,29C76GRHMMR8,2024-03-20,PCRS Wellness Centre,Chilliwack,Down (Unknown Opioid),Opioid,21.2
+Fraser Health,73RTMQT3TTTN,2024-03-20,PCRS Wellness Centre,Chilliwack,Down (Unknown Opioid),Opioid,21.1
+Vancouver Coastal,Z27F7VVFAB9A,2024-03-20,Insite,Vancouver,Down (Unknown Opioid),Opioid,28.8
+Fraser Health,BM3KMNBKZ4KM,2024-03-20,SafePoint,Surrey,Down (Unknown Opioid),Opioid,18.9
+Fraser Health,WDMNHG84YWMN,2024-03-20,SafePoint,Surrey,Fentanyl,Opioid,50.8
+Vancouver Coastal,JKHAJ3YKF2GT,2024-03-19,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,19.3
+Vancouver Coastal,99W6VZN7PENE,2024-03-24,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,5.7
+Fraser Health,V3DZAC6T3NAB,2024-03-23,PCRS Wellness Centre,Chilliwack,Down (Unknown Opioid),Opioid,21.2
+Vancouver Coastal,3AV6PNQA8JPB,2024-03-23,Get Your Drugs Tested,Vancouver,Fentanyl,Opioid,16.1
+Northern Health,9AU77P92BF9Y,2024-03-21,Quesnel Specialized Services,Quesnel,Down (Unknown Opioid),Opioid,24.5
+Vancouver Coastal,E7QYNNP7EDCE,2024-03-26,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,28.7
+Vancouver Coastal,E2GCMVXGA2HG,2024-03-28,Insite,Vancouver,Down (Unknown Opioid),Opioid,26.1
+Vancouver Coastal,C4GRKVMR479J,2024-03-28,Insite,Vancouver,Down (Unknown Opioid),Opioid,12.8
+Vancouver Coastal,YRTB3867H7FH,2024-03-28,Insite,Vancouver,Down (Unknown Opioid),Opioid,30.0
+Fraser Health,DYTUGZUH2CK8,2024-03-27,PCRS Wellness Centre,Chilliwack,Down (Unknown Opioid),Opioid,15.8
+Vancouver Coastal,ZZDGPKPA3P2F,2024-03-28,Insite,Vancouver,Down (Unknown Opioid),Opioid,31.5
+Fraser Health,ZWXV26TZXQ8D,2024-03-06,Ruth and Naomi's (Chilliwack),Chilliwack,Down (Unknown Opioid),Opioid,46.2
+Fraser Health,DPZT2PRY243V,2024-03-24,MCS The Haven,Mission,Down (Unknown Opioid),Opioid,22.2
+Fraser Health,D73PDBZRP7ZT,2024-03-01,Phoenix Society The Hub,Abbotsford,Down (Unknown Opioid),Opioid,33.8
+Island Health,6RXQX9WHCHKY,2024-03-08,CMHA (Albert St.),Nanaimo,Down (Unknown Opioid),Opioid,19.8
+Fraser Health,VW239QUMB48N,2024-03-06,SafePoint,Surrey,Down (Unknown Opioid),Opioid,18.2
+Vancouver Coastal,GAVKCK7HPCAE,2024-03-15,Insite,Vancouver,Down (Unknown Opioid),Opioid,22.9
+Vancouver Coastal,VXDGV8HEE93A,2024-03-14,Insite,Vancouver,Down (Unknown Opioid),Opioid,14.6
+Vancouver Coastal,BKP86A2B9MCP,2024-03-19,Community Resource Centre,Powell River,Fentanyl,Opioid,34.5
+Vancouver Coastal,6KCGZ9BDRMXC,2024-03-18,Insite,Vancouver,Down (Unknown Opioid),Opioid,29.5
+Island Health,B3HWANFHC8DT,2024-03-20,CMHA (Albert St.),Nanaimo,Down (Unknown Opioid),Opioid,20.4
+Fraser Health,BEYRNBB2VV4A,2024-03-05,Food for the Soul,Maple Ridge,Down (Unknown Opioid),Opioid,13.8
+Fraser Health,U7N4TU3HUM2H,2024-03-02,PCRS Wellness Centre,Chilliwack,Down (Unknown Opioid),Opioid,19.2
+Fraser Health,6ZX9FYFJBDRD,2024-03-01,Foxglove Housing,Surrey,Down (Unknown Opioid),Opioid,30.7
+Fraser Health,6XUEYABWT4ZC,2024-03-06,SafePoint,Surrey,Fentanyl,Opioid,29.4
+Fraser Health,JPM34U87JB6V,2024-03-06,SafePoint,Surrey,Fentanyl,Opioid,20.8
+Fraser Health,MFUNY36TJR62,2024-03-09,PCRS Wellness Centre,Chilliwack,Down (Unknown Opioid),Opioid,26.3
+Fraser Health,U4JY6W3EPHN7,2024-03-08,Foxglove Housing,Surrey,Down (Unknown Opioid),Opioid,20.3
+Vancouver Coastal,4ZCJFD6XBR4T,2024-03-13,Community Resource Centre,Powell River,Fentanyl,Opioid,15.3
+Vancouver Coastal,3DYF2ZJB9NDD,2024-03-13,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,27.3
+Vancouver Coastal,PRR3EMYQT42E,2024-03-12,Insite,Vancouver,Down (Unknown Opioid),Opioid,18.3
+Vancouver Coastal,QJKUDHKE2AFC,2024-03-12,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,12.1
+Vancouver Coastal,G387QE6F32R4,2024-03-12,Insite,Vancouver,Down (Unknown Opioid),Opioid,29.2
+Vancouver Coastal,QXW4BUT3YGW8,2024-03-11,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,19.8
+Vancouver Coastal,V7X7JM7PVBCW,2024-03-11,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,28.3
+Fraser Health,693GPW8ZDK6G,2024-03-15,Phoenix Society The Hub,Abbotsford,Down (Unknown Opioid),Opioid,16.6
+Vancouver Coastal,XHHCE6RFR3AU,2024-03-15,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,29.5
+Island Health,64DRKY4YV4BB,2024-03-15,CMHA (Albert St.),Nanaimo,Down (Unknown Opioid),Opioid,24.4
+Vancouver Coastal,AZJ9U4MQJYM9,2024-03-14,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,31.3
+Vancouver Coastal,J6KVHRQ8A3V8,2024-03-18,Insite,Vancouver,Down (Unknown Opioid),Opioid,45.9
+Island Health,WKFQK774CQNW,2024-03-16,CMHA (Albert St.),Nanaimo,Down (Unknown Opioid),Opioid,22.3
+Fraser Health,233YX69M7KR8,2024-03-20,PCRS Wellness Centre,Chilliwack,Down (Unknown Opioid),Opioid,4.2
+Interior Health,NDTBM4FNM6GV,2024-03-19,Medicine Shoppe Pharmacy,Vernon,Down (Unknown Opioid),Opioid,17.8
+Interior Health,JQNTCP826BRJ,2024-03-21,IH Lansdowne SCS,Kamloops,Fentanyl,Opioid,24.6
+Fraser Health,4AZWKCHUCMHM,2024-03-20,PCRS Wellness Centre,Chilliwack,Down (Unknown Opioid),Opioid,4.5
+Fraser Health,WCXYZ2AW82EE,2024-03-23,PCRS Wellness Centre,Chilliwack,Down (Unknown Opioid),Opioid,10.4
+Vancouver Coastal,8N3QNNNJNBA9,2024-03-23,Get Your Drugs Tested,Vancouver,Fentanyl,Opioid,26.3
+Interior Health,QR4GDW3JZ4GQ,2024-03-22,Medicine Shoppe Pharmacy,Vernon,Down (Unknown Opioid),Opioid,16.5
+Fraser Health,34R4U7UWWVGQ,2024-03-22,Phoenix Society The Hub,Abbotsford,Down (Unknown Opioid),Opioid,13.9
+Vancouver Coastal,J27DPXQUWUQB,2024-03-22,Insite,Vancouver,Down (Unknown Opioid),Opioid,32.8
+Interior Health,MG9DWBCMRP7F,2024-03-21,Compass House (Penticton),Penticton,Down (Unknown Opioid),Opioid,31.8
+Interior Health,THFUKF388JTQ,2024-03-21,Compass House (Penticton),Penticton,Down (Unknown Opioid),Opioid,37.6
+Vancouver Coastal,ZY3R4H7TREZP,2024-03-26,Insite,Vancouver,Down (Unknown Opioid),Opioid,25.5
+Vancouver Coastal,9NG7M6PNNNN8,2024-03-23,Get Your Drugs Tested,Vancouver,Fentanyl,Opioid,16.9
+Fraser Health,F4TWF94J8Z8Q,2024-03-27,Ruth and Naomi's (Chilliwack),Chilliwack,Down (Unknown Opioid),Opioid,25.5
+Vancouver Coastal,9XXWWA4X37V4,2024-03-27,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,14.8
+Island Health,324MX89MP334,2024-03-27,CMHA (Albert St.),Nanaimo,Down (Unknown Opioid),Opioid,8.6
+Fraser Health,D97ZYC7JGBER,2024-03-27,PCRS Wellness Centre,Chilliwack,Down (Unknown Opioid),Opioid,15.5
+Vancouver Coastal,H7GDD4HPTEHP,2024-03-27,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,16.2
+Island Health,DBVUGBVUTH6U,2024-03-31,CMHA (Albert St.),Nanaimo,Fentanyl,Opioid,24.4
+Vancouver Coastal,YHKK2D3DRYJY,2024-03-31,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,6.2
+Vancouver Coastal,ER7TN4ZTR2N4,2024-03-30,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,13.4
+Vancouver Coastal,887YBRUWCQMD,2024-03-30,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,11.9
+Vancouver Coastal,PFGGDHWVHTRY,2024-03-30,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,15.3
+Vancouver Coastal,PR9XCEEBE9JE,2024-03-29,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,12.8
+Interior Health,GGR3QZ76V6CE,2024-03-28,Vernon MHSU,Vernon,Fentanyl,Opioid,16.4
+Fraser Health,X3PMCZZVCC28,2024-03-05,Lookout Society Red Lion,Abbotsford,Down (Unknown Opioid),Opioid,30.7
+Vancouver Coastal,N3UHJ3KWCD2Z,2024-03-07,CRC OPS,Powell River,Fentanyl,Opioid,16.9
+Vancouver Coastal,4WK84ZVXAY84,2024-03-25,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,23.0
+Fraser Health,QYMEKDRNNQCK,2024-03-20,SafePoint,Surrey,Down (Unknown Opioid),Opioid,20.9
+Fraser Health,3CG4NTFREJVG,2024-03-20,SafePoint,Surrey,Down (Unknown Opioid),Opioid,25.2
+Vancouver Coastal,Z7HMMZBM6Z47,2024-03-19,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,7.9
+Fraser Health,94N638PJ6ZJ9,2024-03-27,Ruth and Naomi's (Chilliwack),Chilliwack,Down (Unknown Opioid),Opioid,25.4
+Vancouver Coastal,B84ZBQ4MU9WF,2024-03-28,Insite,Vancouver,Down (Unknown Opioid),Opioid,9.3
+Interior Health,33P3JB69NH8A,2024-03-27,Outreach Urban Health,Kelowna,Down (Unknown Opioid),Opioid,21.1
+Fraser Health,2CCUHCNHZB9C,2024-03-27,PCRS Wellness Centre,Chilliwack,Down (Unknown Opioid),Opioid,41.9
+Interior Health,T2ACBYR3CQP7,2024-03-27,Outreach Urban Health,Kelowna,Down (Unknown Opioid),Opioid,15.5
+Island Health,B49BGTUUWPVN,2024-03-28,CMHA (Albert St.),Nanaimo,Down (Unknown Opioid),Opioid,14.4
+Vancouver Coastal,9ZHAZ9JAWJXA,2024-03-25,Insite,Vancouver,Down (Unknown Opioid),Opioid,7.1
+Fraser Health,QGNKD6CRGM3W,2024-03-26,Lookout Society Red Lion,Abbotsford,Down (Unknown Opioid),Opioid,18.0
+Fraser Health,BPB8QTEWUVHE,2024-03-26,3030 Gordon,Coquitlam,Down (Unknown Opioid),Opioid,15.8
+Vancouver Coastal,W7AEG7E9CEYU,2024-03-26,Insite,Vancouver,Down (Unknown Opioid),Opioid,20.7
+Interior Health,PRKHXDFWE9EJ,2024-03-26,Medicine Shoppe Pharmacy,Vernon,Down (Unknown Opioid),Opioid,13.6
+Fraser Health,YQU6DEC4HPKU,2024-03-26,3030 Gordon,Coquitlam,Down (Unknown Opioid),Opioid,21.4
+Vancouver Coastal,CMRBX69H77BG,2024-03-26,Insite,Vancouver,Down (Unknown Opioid),Opioid,20.9
+Fraser Health,RDGW3GJGDM39,2024-03-23,PCRS Wellness Centre,Chilliwack,Down (Unknown Opioid),Opioid,8.9
+Vancouver Coastal,T6CPU9JJRF2K,2024-03-23,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,17.7
+Island Health,AB3DBWRV8VEC,2024-03-25,CMHA (Albert St.),Nanaimo,Fentanyl,Opioid,15.9
+Vancouver Coastal,AP9KNPJTB7C3,2024-03-25,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,10.6
+Vancouver Coastal,XKP6N84Y7P37,2024-03-25,Insite,Vancouver,Down (Unknown Opioid),Opioid,9.6
+Fraser Health,HKJYDZYYD9Z7,2024-03-22,Abby Drug War Survivors (NOMAD),Abbotsford,Down (Unknown Opioid),Opioid,64.9
+Vancouver Coastal,YPKYM3WQYCDM,2024-03-22,Insite,Vancouver,Down (Unknown Opioid),Opioid,46.9
+Interior Health,BC6DHRXHTXHD,2024-03-21,Compass House (Penticton),Penticton,Down (Unknown Opioid),Opioid,15.1
+Vancouver Coastal,MXZGQCB7TC34,2024-03-21,Squamish OPS,Squamish,Down (Unknown Opioid),Opioid,18.6
+Vancouver Coastal,4GRUFQX83Q2W,2024-03-22,Get Your Drugs Tested,Vancouver,Fentanyl,Opioid,14.2
+Vancouver Coastal,UZXDVA9E8E64,2024-03-17,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,26.4
+Interior Health,9QUUFUXM64EE,2024-03-20,Vernon MHSU,Vernon,Down (Unknown Opioid),Opioid,14.7
+Fraser Health,ZXAZTZA4EGFV,2024-03-20,SafePoint,Surrey,Down (Unknown Opioid),Opioid,22.9
+Fraser Health,73BRXRH4ZTKR,2024-03-20,SafePoint,Surrey,Down (Unknown Opioid),Opioid,15.6
+Vancouver Coastal,4YCFT7R2PAPH,2024-03-21,Insite,Vancouver,Down (Unknown Opioid),Opioid,9.1
+Fraser Health,DYY4F4UYCUJF,2024-03-16,PCRS Wellness Centre,Chilliwack,Down (Unknown Opioid),Opioid,14.0
+Vancouver Coastal,RPBM7K8DEVWD,2024-03-16,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,22.8
+Vancouver Coastal,UT9DRQYCADJE,2024-03-16,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,15.6
+Vancouver Coastal,EUGZZPXV8XRF,2024-03-17,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,21.9
+Island Health,NWWGD6K4U2VT,2024-03-17,CMHA (Albert St.),Nanaimo,Down (Unknown Opioid),Opioid,28.4
+Fraser Health,44K2DNVY7MB9,2024-03-15,Phoenix Society The Hub,Abbotsford,Down (Unknown Opioid),Opioid,11.5
+Fraser Health,927MUM8UMNEE,2024-03-15,Phoenix Society The Hub,Abbotsford,Down (Unknown Opioid),Opioid,38.5
+Fraser Health,Q297ARYRUTUG,2024-03-15,Foxglove Housing,Surrey,Down (Unknown Opioid),Opioid,18.2
+Fraser Health,AP4M2TR9H8EW,2024-03-15,Phoenix Society The Hub,Abbotsford,Down (Unknown Opioid),Opioid,30.2
+Island Health,VPPGGBJWPTWP,2024-03-15,CMHA (Albert St.),Nanaimo,Down (Unknown Opioid),Opioid,20.0
+Interior Health,92UVZUJUKP7J,2024-03-11,Medicine Shoppe Pharmacy,Vernon,Down (Unknown Opioid),Opioid,14.5
+Island Health,EP6HTWG2N78V,2024-03-11,CMHA (Albert St.),Nanaimo,Down (Unknown Opioid),Opioid,9.7
+Island Health,PDBB7JB3778A,2024-03-11,CMHA (Albert St.),Nanaimo,Down (Unknown Opioid),Opioid,33.1
+Fraser Health,82UYHKFNNC7Z,2024-03-08,Phoenix Society The Hub,Abbotsford,Down (Unknown Opioid),Opioid,9.5
+Vancouver Coastal,DVR98QMJFPDK,2024-03-10,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,19.8
+Fraser Health,B3P66TA8KTCQ,2024-03-06,Ruth and Naomi's (Chilliwack),Chilliwack,Down (Unknown Opioid),Opioid,17.1
+Vancouver Coastal,NDKMGXBB4ZJH,2024-03-08,Insite,Vancouver,Down (Unknown Opioid),Opioid,33.6
+Vancouver Coastal,Z96JTHZZZNCR,2024-03-08,Insite,Vancouver,Down (Unknown Opioid),Opioid,29.5
+Island Health,UB6TTYPA78RP,2024-03-08,CMHA (Albert St.),Nanaimo,Down (Unknown Opioid),Opioid,8.8
+Vancouver Coastal,N3ECC9NB9TNJ,2024-03-04,Insite,Vancouver,Down (Unknown Opioid),Opioid,23.3
+Vancouver Coastal,QVEJBJMFBGMA,2024-03-03,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,24.7
+Vancouver Coastal,7ZYGJZXCFM9Z,2024-03-04,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,27.8
+Fraser Health,ZX2XNEFFQU9G,2024-03-06,SafePoint,Surrey,Down (Unknown Opioid),Opioid,31.7
+Island Health,74FR2QE49VK7,2024-03-06,CMHA (Albert St.),Nanaimo,Down (Unknown Opioid),Opioid,6.5
+Interior Health,NHN7NYRGCHBX,2024-03-06,Outreach Urban Health,Kelowna,Down (Unknown Opioid),Opioid,25.7
+Vancouver Coastal,92P88XNGMDFX,2024-03-06,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,23.6
+Vancouver Coastal,42D7MBNXNHBR,2024-03-01,Insite,Vancouver,Down (Unknown Opioid),Opioid,11.5
+Vancouver Coastal,REZETBZWUK7Z,2024-03-01,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,27.3
+Fraser Health,TBRBPMFBR49V,2024-03-01,Phoenix Society The Hub,Abbotsford,Down (Unknown Opioid),Opioid,34.6
+Fraser Health,Z9JG92DXNJQH,2024-03-01,Phoenix Society The Hub,Abbotsford,Down (Unknown Opioid),Opioid,23.6
+Vancouver Coastal,WNVKAEWWXN9J,2024-03-12,Insite,Vancouver,Down (Unknown Opioid),Opioid,14.0
+Vancouver Coastal,8V79W33GE8UQ,2024-03-11,Community Resource Centre,Powell River,Fentanyl,Opioid,20.5
+Vancouver Coastal,3FAWYCB8Q3BP,2024-03-11,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,11.7
+Fraser Health,EKD6MKVUUDKC,2024-03-15,Phoenix Society The Hub,Abbotsford,Down (Unknown Opioid),Opioid,21.0
+Fraser Health,EUPJPP49GKQP,2024-03-22,3030 Gordon,Coquitlam,Down (Unknown Opioid),Opioid,16.0
+Vancouver Coastal,XHEZVBH2WBMP,2024-03-20,Insite,Vancouver,Down (Unknown Opioid),Opioid,13.4
+Fraser Health,6DCM9GFCBA6W,2024-03-20,Ruth and Naomi's (Chilliwack),Chilliwack,Down (Unknown Opioid),Opioid,26.1
+Vancouver Coastal,74X7EHJ4DYNT,2024-03-25,Insite,Vancouver,Down (Unknown Opioid),Opioid,11.8
+Fraser Health,V6K4NXJEBGKJ,2024-03-29,Lookout Society Cole Starnes,Abbotsford,Down (Unknown Opioid),Opioid,27.8
+Fraser Health,QYAC88CBAFP9,2024-03-27,Ruth and Naomi's (Chilliwack),Chilliwack,Down (Unknown Opioid),Opioid,12.4
+Fraser Health,JFFFCXG2MNN9,2024-03-22,Lookout Society Cole Starnes,Abbotsford,Down (Unknown Opioid),Opioid,28.5
+Island Health,ATQMAPETKYW8,2024-03-31,CMHA (Albert St.),Nanaimo,Fentanyl,Opioid,5.6
+Fraser Health,EX2GEXECA4YX,2024-03-17,MCS The Haven,Mission,Down (Unknown Opioid),Opioid,4.8
+Fraser Health,MQB4FWEQ4CFF,2024-03-15,Phoenix Society The Hub,Abbotsford,Down (Unknown Opioid),Opioid,47.0
+Vancouver Coastal,88TUFGNQRXM8,2024-03-16,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,18.3
+Vancouver Coastal,VJKMU4PQWC7H,2024-03-12,Insite,Vancouver,Down (Unknown Opioid),Opioid,21.5
+Island Health,BRDABKCTFJJN,2024-03-07,CMHA (Albert St.),Nanaimo,Fentanyl,Opioid,14.2
+Fraser Health,UCWZVCF4TVUP,2024-03-24,MCS The Haven,Mission,Down (Unknown Opioid),Opioid,20.8
+Vancouver Coastal,XXJZPBFRKFFG,2024-03-25,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,13.5
+Vancouver Coastal,ZWQ4V6YJK4VN,2024-03-28,Insite,Vancouver,Down (Unknown Opioid),Opioid,19.7
+Vancouver Coastal,Y8H92WTTP7BG,2024-03-22,Insite,Vancouver,Down (Unknown Opioid),Opioid,10.6
+Fraser Health,9RXYHFVBFA3F,2024-03-20,PCRS Wellness Centre,Chilliwack,Down (Unknown Opioid),Opioid,19.9
+Fraser Health,F3KGJBAJ7MHQ,2024-03-08,Foxglove Housing,Surrey,Down (Unknown Opioid),Opioid,21.6
+Fraser Health,DN8AKEQFQPKA,2024-03-01,Foxglove Housing,Surrey,Down (Unknown Opioid),Opioid,17.2
+Fraser Health,22NKJE4ZUCK3,2024-03-01,Outreach Hub,Burnaby,Fentanyl,Opioid,23.2
+Island Health,GDRYE2NE9BKW,2024-03-16,CMHA (Albert St.),Nanaimo,Down (Unknown Opioid),Opioid,25.7
+Island Health,V6YBDGKYRAYB,2024-03-17,CMHA (Albert St.),Nanaimo,Down (Unknown Opioid),Opioid,27.3
+Fraser Health,9HNWCBZYG7GK,2024-03-01,Foxglove Housing,Surrey,Down (Unknown Opioid),Opioid,17.5
+Interior Health,7UATH3YHYGJJ,2024-03-01,Martin St Outreach Centre OPS,Penticton,Down (Unknown Opioid),Opioid,24.0
+Island Health,JGRAUKJD4TH4,2024-03-06,CMHA (Albert St.),Nanaimo,Heroin,Opioid,11.2
+Island Health,JRV9642CRYEK,2024-03-06,CMHA (Albert St.),Nanaimo,Down (Unknown Opioid),Opioid,13.2
+Interior Health,GE2GAPCCCQNW,2024-03-07,Living Positive Resource Centre,Kelowna,Down (Unknown Opioid),Opioid,21.9
+Vancouver Coastal,EX4B6MPDT4UW,2024-03-18,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,73.0
+Vancouver Coastal,TETNAA4BJTRE,2024-03-20,Insite,Vancouver,Down (Unknown Opioid),Opioid,19.8
+Vancouver Coastal,KNUGWGRX9WU4,2024-03-21,Squamish OPS,Squamish,Fentanyl,Opioid,17.4
+Island Health,8BZ6WK6Y868K,2024-03-31,CMHA (Albert St.),Nanaimo,Down (Unknown Opioid),Opioid,19.8
+Island Health,RJ8F6Z6G3KBH,2024-03-31,CMHA (Albert St.),Nanaimo,Fentanyl,Opioid,8.4
+Vancouver Coastal,JVBHXM6UHQP4,2024-03-31,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,24.3
+Vancouver Coastal,VRYDDYGKYP3M,2024-03-30,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,14.5
+Vancouver Coastal,KG2QDWN3EWHG,2024-03-30,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,15.4
+Vancouver Coastal,WA47CENHWQVV,2024-03-30,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,20.0
+Island Health,487N3D6MZ72E,2024-03-31,CMHA (Albert St.),Nanaimo,Fentanyl,Opioid,8.4
+Vancouver Coastal,NRJAE4XTX48R,2024-03-27,Get Your Drugs Tested,Vancouver,Fentanyl,Opioid,59.9
+Vancouver Coastal,2BBMW4VB3VBA,2024-03-28,Insite,Vancouver,Down (Unknown Opioid),Opioid,62.3
+Vancouver Coastal,ZZEF3C64X2JB,2024-03-28,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,12.3
+Vancouver Coastal,BEPCDN8A83N7,2024-03-28,Get Your Drugs Tested,Vancouver,Fentanyl,Opioid,68.7
+Vancouver Coastal,MNR3MYZUX3FV,2024-03-28,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,25.4
+Vancouver Coastal,RG9R3ZR4TE4W,2024-03-28,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,19.4
+Vancouver Coastal,2RX42RNHY33E,2024-03-25,Insite,Vancouver,Fentanyl,Opioid,64.7
+Vancouver Coastal,8ETBQ74WA6WW,2024-03-26,Insite,Vancouver,Down (Unknown Opioid),Opioid,15.2
+Fraser Health,9Q7MBAF7U637,2024-03-27,PCRS Wellness Centre,Chilliwack,Fentanyl,Opioid,54.0
+Fraser Health,KYQKVZXYKHEN,2024-03-27,PCRS Wellness Centre,Chilliwack,Fentanyl,Opioid,60.6
+Vancouver Coastal,JEHHBBQQXHJ7,2024-03-24,Get Your Drugs Tested,Vancouver,Fentanyl,Opioid,65.9
+Vancouver Coastal,XY3ZRYHMXYYA,2024-03-24,Get Your Drugs Tested,Vancouver,Fentanyl,Opioid,64.6
+Vancouver Coastal,F3TH4CPJNCN8,2024-03-25,Insite,Vancouver,Fentanyl,Opioid,61.3
+Fraser Health,84HN4VP6C4YQ,2024-03-24,MCS The Haven,Mission,Down (Unknown Opioid),Opioid,20.1
+Vancouver Coastal,FQNQAGEZ49YJ,2024-03-22,Get Your Drugs Tested,Vancouver,Fentanyl,Opioid,69.0
+Fraser Health,N7UC6QXGK4T4,2024-03-20,PCRS Wellness Centre,Chilliwack,Down (Unknown Opioid),Opioid,21.1
+Vancouver Coastal,NTG6KWZHP2MW,2024-03-21,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,15.6
+Vancouver Coastal,2VZBD4FBBBM2,2024-03-18,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,14.3
+Vancouver Coastal,E923AP2UWX4K,2024-03-18,Get Your Drugs Tested,Vancouver,Fentanyl,Opioid,68.7
+Vancouver Coastal,YWA46JBTXQWC,2024-03-18,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,18.3
+Vancouver Coastal,U32FRUGHPZZH,2024-03-18,Get Your Drugs Tested,Vancouver,Fentanyl,Opioid,67.1
+Vancouver Coastal,GPFJ8GC888B8,2024-03-19,Get Your Drugs Tested,Vancouver,Fentanyl,Opioid,69.3
+Vancouver Coastal,297ZJ2KNWEBN,2024-03-17,Get Your Drugs Tested,Vancouver,Fentanyl,Opioid,66.1
+Vancouver Coastal,G6RX2VCG2DDC,2024-03-17,Get Your Drugs Tested,Vancouver,Fentanyl,Opioid,62.5
+Vancouver Coastal,PDCUNU2PTYQU,2024-03-18,Get Your Drugs Tested,Vancouver,Fentanyl,Opioid,61.3
+Vancouver Coastal,QZM3FPBDDUQW,2024-03-15,Get Your Drugs Tested,Vancouver,Fentanyl,Opioid,68.9
+Vancouver Coastal,8ZWD4JD69FX7,2024-03-15,Insite,Vancouver,Down (Unknown Opioid),Opioid,63.8
+Fraser Health,WUGEZ2NDDJ48,2024-03-16,PCRS Wellness Centre,Chilliwack,Down (Unknown Opioid),Opioid,19.9
+Vancouver Coastal,UD4YXQX8GBGV,2024-03-17,Get Your Drugs Tested,Vancouver,Fentanyl,Opioid,62.0
+Vancouver Coastal,Y4TU4NZ4M9KV,2024-03-17,Get Your Drugs Tested,Vancouver,Fentanyl,Opioid,56.1
+Fraser Health,MEJHK8GCZE6G,2024-03-09,PCRS Wellness Centre,Chilliwack,Down (Unknown Opioid),Opioid,24.1
+Island Health,FT89P8JVWTN9,2024-03-11,CMHA (Albert St.),Nanaimo,Fentanyl,Opioid,54.6
+Vancouver Coastal,8X8EQ8NMK2DA,2024-03-07,Insite,Vancouver,Down (Unknown Opioid),Opioid,22.3
+Northern Health,QNAPEKHWAP8Y,2024-03-08,Prince George Needle Exchange,Prince George,Down (Unknown Opioid),Opioid,18.9
+Vancouver Coastal,8PD89GBUDWQ3,2024-03-08,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,20.8
+Vancouver Coastal,A4N2KWKY7R4N,2024-03-08,Insite,Vancouver,Down (Unknown Opioid),Opioid,29.7
+Vancouver Coastal,MTM9ZY92FJZA,2024-03-05,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,42.4
+Fraser Health,W4XF9E7G6FQD,2024-03-06,Ruth and Naomi's (Chilliwack),Chilliwack,Down (Unknown Opioid),Opioid,49.1
+Vancouver Coastal,2B6QB2WUN3XW,2024-03-03,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,73.0
+Interior Health,YFA6NH6RA3HT,2024-03-01,Martin St Outreach Centre OPS,Penticton,Down (Unknown Opioid),Opioid,23.1
+Fraser Health,GXZNVR93M2E2,2024-03-20,PCRS Wellness Centre,Chilliwack,Down (Unknown Opioid),Opioid,68.9
+Vancouver Coastal,EGCCC7JFR4CF,2024-03-17,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,26.4
+Vancouver Coastal,4KVPCEW4DDKF,2024-03-01,Insite,Vancouver,Down (Unknown Opioid),Opioid,24.8
+Vancouver Coastal,Y4MW7VYACWZ4,2024-03-02,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,25.4
+Vancouver Coastal,GNMX4DWF9FWM,2024-03-08,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,22.5
+Island Health,8NHTV7A2J3X8,2024-03-08,CMHA (Albert St.),Nanaimo,Fentanyl,Opioid,62.0
+Vancouver Coastal,3443GEV8BUCN,2024-03-06,Insite,Vancouver,Down (Unknown Opioid),Opioid,26.3
+Vancouver Coastal,CFXD7MABJJPX,2024-03-14,Get Your Drugs Tested,Vancouver,Fentanyl,Opioid,63.2
+Vancouver Coastal,8YMGRFTWPBQQ,2024-03-14,Insite,Vancouver,Down (Unknown Opioid),Opioid,21.6
+Vancouver Coastal,7XJ43YE9BJHJ,2024-03-11,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,32.9
+Fraser Health,3PNTKQ3FRZZG,2024-03-20,PCRS Wellness Centre,Chilliwack,Down (Unknown Opioid),Opioid,2.9
+Vancouver Coastal,UGUFHBD2KTEQ,2024-03-19,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,15.6
+Vancouver Coastal,QRTAPYDAEMPZ,2024-03-19,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,21.8
+Vancouver Coastal,QQZQ7WV9TZZT,2024-03-17,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,54.3
+Vancouver Coastal,UPC3KF6XJFC3,2024-03-18,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,17.6
+Vancouver Coastal,QVR2X9V9YVMA,2024-03-24,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,11.3
+Vancouver Coastal,FWR336VMAATK,2024-03-25,Insite,Vancouver,Down (Unknown Opioid),Opioid,18.3
+Vancouver Coastal,BZA8TQXZCCG9,2024-03-24,Get Your Drugs Tested,Vancouver,Fentanyl,Opioid,11.3
+Vancouver Coastal,JPN2TZQ3P3JX,2024-03-21,Get Your Drugs Tested,Vancouver,Fentanyl,Opioid,62.3
+Fraser Health,CYRNRJRXMZWM,2024-03-20,PCRS Wellness Centre,Chilliwack,Down (Unknown Opioid),Opioid,4.7
+Vancouver Coastal,4YT33KWKBKYA,2024-03-28,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,26.2
+Vancouver Coastal,8XZA9WWRME66,2024-03-29,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,22.8
+Vancouver Coastal,XWYYW7D8UXZ6,2024-03-26,Get Your Drugs Tested,Vancouver,Fentanyl,Opioid,62.6
+Vancouver Coastal,RB3TPXKYHCZM,2024-03-26,Get Your Drugs Tested,Vancouver,Fentanyl,Opioid,63.2
+Fraser Health,TVBFXV2AXGXV,2024-03-27,PCRS Wellness Centre,Chilliwack,Down (Unknown Opioid),Opioid,57.8
+Vancouver Coastal,EC2C39CZHQUX,2024-03-27,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,19.1
+Vancouver Coastal,F9DE47UAGAUV,2024-03-23,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,19.6
+Vancouver Coastal,KTZUUKFMMF86,2024-03-23,Get Your Drugs Tested,Vancouver,Fentanyl,Opioid,70.1
+Vancouver Coastal,4MWR8PRE74KQ,2024-03-24,Get Your Drugs Tested,Vancouver,Down (Unknown Opioid),Opioid,9.2
